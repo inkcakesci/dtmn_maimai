@@ -1,6 +1,8 @@
 
 # 起步年龄是否影响音乐游戏表现？——以《舞萌DX》为例
 
+[❤点我前往ipynb的结论界面❤](https://inkcakesci.github.io/dtmn_maimai/)
+
 > **TL;DR**  
 > 基于 n=347 份有效样本，在控制总游玩次数与练习时长后，**更早的入坑年龄（start_age）与更高的 DX rating 仍显著相关**（非线性、边际递减）。练习量（play_count）是最大解释因子，但年龄相关变量（start_age、current_age）保留独立贡献。针对活跃玩家总体（≈5.16 万），95% 抽样误差约 **±5.23%**。
 
