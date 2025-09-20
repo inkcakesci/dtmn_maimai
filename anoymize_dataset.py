@@ -17,7 +17,6 @@ cols_to_drop = [
     "player_name",
     "player_birthday",
     "submit_datatime",
-    "qq_number",
     "Question3"       # 若需保留可做关键词脱敏或人工审核
 ]
 df_anonym = df.drop(columns=cols_to_drop)
